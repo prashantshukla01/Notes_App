@@ -8,10 +8,17 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
+<<<<<<< HEAD
                   <option name="appId" value="PLACEHOLDER" />
                   <option name="mobileSdkAppId" value="" />
                   <option name="projectId" value="" />
                   <option name="projectNumber" value="" />
+=======
+                  <option name="appId" value="com.cheezycode.notesample" />
+                  <option name="mobileSdkAppId" value="1:377548285851:android:3d28e14d6632c9d03a233e" />
+                  <option name="projectId" value="noteapp-7387a" />
+                  <option name="projectNumber" value="377548285851" />
+>>>>>>> 3a54bd4 (Updated project with changes)
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

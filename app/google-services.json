@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377548285851",
+    "project_id": "noteapp-7387a",
+    "storage_bucket": "noteapp-7387a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377548285851:android:3d28e14d6632c9d03a233e",
+        "android_client_info": {
+          "package_name": "com.cheezycode.notesample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-mf9tqvXd-2so2uxhfULl5zLo4rIT64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
